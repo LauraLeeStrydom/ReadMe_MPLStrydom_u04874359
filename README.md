@@ -1,8 +1,4 @@
 # Laura-Lee Strydom
-- 960731 0227 080
-- 58 Cardiff Avenue, Clubview, Pretoria, 0157
-- Mobile: 076 412 8506
-- E-mail: lauraleigh.strydom@gmail.com
 
 ### Profile:
 During my schooling, exposure to art and current work experience I have developed certain skills and notable qualities within my personality. These qualities are professionalism, tactfulness, superb organizational skills, accuracy, patience, punctuality, creativeness, perseverance, pro activity, reliability, efficiency, honesty and trustworthiness. 
@@ -11,23 +7,6 @@ I also work well under pressure, prioritize and are willing to stretch extra hou
 I also comprehend exceptional computer literacy, including Microsoft Excel, Word and Outlook. I possess excellent verbal and written communication skills together with good telephone manner.
 
 I am currently studying BSc Computer Science at the University of Pretoria. I will be completing my studies in 2020. 
-
-### Education:
-Matric (Eldoraigne High School) with distinctions in Alpha Mathematics, Art, Life Orientation and Afrikaans.
-Diploma in Web Development from Shaw Academy
-Diploma in Graphic Design from Shaw Academy
-Diploma in Blogging and Content Marketing from Shaw Academy
-
-Since February 2017, I’ve been a full-time student at the University of Pretoria, majoring in:
-- Software Engineering
-- Computer Networks
-- Programming Languages
-- Compiler Construction
-- Computer Security & Ethics
-- Database Systems
-- Artificial Intelligence
-- Multimedia
-
 
 ### Work experience:
 
@@ -60,18 +39,5 @@ Since February 2017, I’ve been a full-time student at the University of Pretor
 > - Employer: Beadica (PTY) Ltd
 
 
-### References:
-
-Mrs Sanet Halgryn
-	Chief Information Officer of Beadica (PTY) Ltd.
-	061 433 7768
-
-Mr Lucky Phoswa
-	IT Office Manager of Ngubane & Co.
-	083 590 0652
-
-Mrs Adre Pansegrouw
-	MD of F.R.O.G. Audio Visual (PTY) Ltd.
-	082 853 5402
 
 
